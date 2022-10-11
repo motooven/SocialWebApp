@@ -1,0 +1,20 @@
+.div1 {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #e7c5c5;
+    display: grid;
+    grid-template-rows: 0.5fr 4fr;
+    grid-template-columns: 1fr 8fr;
+    grid-template-areas: "header header" "navbar content";
+}
+
+
+
+
+
+
+.dialogs {  display: grid; grid-template-columns: 1fr 7fr; color: white }
+
+
+
+
