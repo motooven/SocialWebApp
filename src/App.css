@@ -8,8 +8,11 @@
     grid-template-areas: "header header" "navbar content";
 }
 
-
-
+.content_wrapper {
+    grid-area: content;
+    background-color: #acccd8;
+    padding: 10px;
+}
 
 
 
